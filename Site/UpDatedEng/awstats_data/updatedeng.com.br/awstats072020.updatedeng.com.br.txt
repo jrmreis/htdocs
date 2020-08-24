@@ -1,0 +1,590 @@
+AWSTATS DATA FILE 6.95 (build 1.943)
+# If you remove this file, all statistics for date 202007 will be lost/reset.
+# Last config file used to build this data file was /home/web186/awstats/conf/awstats.updatedeng.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 29
+POS_GENERAL 2042                
+POS_TIME 2714                
+POS_VISITOR 11327               
+POS_DAY 17010               
+POS_DOMAIN 3561                
+POS_LOGIN 3793                
+POS_ROBOT 3948                
+POS_WORMS 4311                
+POS_EMAILSENDER 4442                
+POS_EMAILRECEIVER 4585                
+POS_SESSION 17809               
+POS_SIDER 18016               
+POS_FILETYPES 4720                
+POS_OS 4922                
+POS_BROWSER 5041                
+POS_SCREENSIZE 5825                
+POS_UNKNOWNREFERER 5899                
+POS_UNKNOWNREFERERBROWSER 5986                
+POS_ORIGIN 6068                
+POS_SEREFERRALS 6209                
+POS_PAGEREFS 6375                
+POS_SEARCHWORDS 6603                
+POS_KEYWORDS 6755                
+POS_MISC 2378                
+POS_ERRORS 6814                
+POS_CLUSTER 3649                
+POS_SIDER_404 6949                
+POS_EXTRA_1 8446                
+POS_EXTRA_2 8569                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200801081405 1 0 10508830381826
+FirstTime 20200701010845
+LastTime 20200731142127
+LastUpdate 20200802021921 1 0 0 0 0
+TotalVisits 178                 
+TotalUnique 84                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 128                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 4 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 19 1130066 35 41 144693
+1 5 65 3919528 33 60 1422369
+2 4 65 4433159 36 51 584344
+3 6 21 1135148 53 67 412257
+4 3 32 2218192 29 33 280599
+5 2 4 168269 182 198 344193
+6 1 1 12591 434 446 1470843
+7 2 17 1120544 38 53 408641
+8 26 188 3672280 51 56 139715
+9 28 102 2716060 58 70 639482
+10 37 165 1762514 30 37 192451
+11 94 248 2557804 52 56 216734
+12 19 174 3892425 41 51 103421
+13 5 43 2008097 23 27 113204
+14 48 138 2879720 94 102 519224
+15 22 140 2487549 78 83 202953
+16 15 106 2280103 125 129 129060
+17 40 87 706631 182 199 387886
+18 47 118 2076217 209 217 358635
+19 125 371 7907875 229 252 258456
+20 88 258 4115884 162 188 523807
+21 73 244 4029855 91 139 697487
+22 5 6 5536 40 51 491283
+23 9 72 4558506 29 40 207633
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 706 2684 61794553
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+googlebot 261 3157363 20200731091217 49
+bot[\s_+:,\.\;\/\\-] 221 4648784 20200731102940 97
+no_user_agent 127 1586619 20200731072618 0
+favicon 4 9960 20200707235430 0
+python 2 7266 20200726120001 0
+netcraft 1 12591 20200702202434 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 152 954428 0 0
+png 1102 43243634 0 0
+woff 1 29380 0 0
+pl 6 8084 0 0
+php 637 2675064 0 0
+js 440 3806358 0 0
+jpg 284 10795095 0 0
+Unknown 62 282510 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 7
+macosx 148
+linuxandroid 184
+winxp 5
+winnt 2024
+winvista 2
+linux 119
+win2008 202
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 40
+firefox28.0 2
+firefox57.0 15
+chrome84.0.4147.89 166
+chrome36.0.1944.0 30
+chrome39.0.2171.95 1
+opera12.0 1
+chrome71.0.3578.98 4
+chrome74.0.3729.157 17
+firefox1.5.0.1 2
+chrome26.0.1410.65 1
+msie7.0 48
+firefox59.0 2
+chrome80.0.3987.0 106
+chrome71.0.3578.99 2
+safari13.1.1 62
+msie9.0 33
+safari13.1 20
+firefox50.0 2
+chrome41.0.2224.3 1
+firefox53.0 1
+chrome34.0.1847.131 1
+chrome68.0.3440.106 10
+firefox77.0 16
+chrome41.0.2226.0 2
+chrome78.0.3904.108 2
+chrome36.0.1985.67 1
+chrome81.0.4044.122 3
+firefox78.0 129
+firefox61.0 1
+mozilla 114
+chrome78.0.3904.70 12
+chrome79.0.3945.136 6
+chrome81.0.4044.138 3
+msie10.0 3
+chrome83.0.4103.106 131
+chrome84.0.4147.105 48
+chrome41.0.2228.0 2
+safari 22
+chrome83.0.4103.116 1661
+chrome64.0.3282.140 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 251 300
+From1 1 1
+From2 38 45
+From3 3 3
+From4 413 2335
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 38 44
+bing 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+https://king.host 2 2
+http://www.selectcontractsltd.com/blog/95557162/view/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+403 9 2516
+302 1897 460057
+500 3 0
+301 9 2158
+404 64 361614
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 47
+/ 7 -
+/login/wp-login.php 1 -
+/sobre/ 1 https://www.updatedeng.com.br/
+/orcamento/ 2 https://www.updatedeng.com.br/
+//2019/wp-includes/wlwmanifest.xml 1 -
+//web/wp-includes/wlwmanifest.xml 1 -
+/this_page_does_not_exist/wp-login.php 1 -
+/wordpress/wp-login.php 1 -
+//wp1/wp-includes/wlwmanifest.xml 1 -
+//news/wp-includes/wlwmanifest.xml 1 -
+//wp-includes/wlwmanifest.xml 1 -
+//cms/wp-includes/wlwmanifest.xml 1 -
+/teste/wp-login.php 1 -
+/new/wp-login.php 1 -
+//wp2/wp-includes/wlwmanifest.xml 1 -
+/admin/wp-login.php 1 -
+/sitemaps.xml 2 -
+/wp/wp-login.php 1 -
+/novo/wp-login.php 1 -
+//shop/wp-includes/wlwmanifest.xml 1 -
+/adimin 2 -
+/estatistica 2 -
+//media/wp-includes/wlwmanifest.xml 1 -
+/estatisticas 3 -
+/orcamento 2 -
+//2018/wp-includes/wlwmanifest.xml 1 -
+/estat%C3%ADsitica 1 -
+/old/wp-login.php 1 -
+/wp-content/plugins/iwp-client/readme.txt 1 -
+//wp/wp-includes/wlwmanifest.xml 1 -
+//blog/wp-includes/wlwmanifest.xml 1 -
+//test/wp-includes/wlwmanifest.xml 1 -
+/sitemap_index.xml 2 -
+//site/wp-includes/wlwmanifest.xml 1 -
+//sito/wp-includes/wlwmanifest.xml 1 -
+/blog/wp-login.php 1 -
+/atom.xml 2 -
+/backup/wp-login.php 1 -
+/stats.txt 2 -
+/sitemap.xml.gz 2 -
+/entrar/wp-login.php 1 -
+//website/wp-includes/wlwmanifest.xml 1 -
+/wp-login.php 1 -
+/site/wp-login.php 1 -
+/painel/wp-login.php 1 -
+//wordpress/wp-includes/wlwmanifest.xml 1 -
+/portal/wp-login.php 1 -
+END_SIDER_404
+
+# Extra key - Pages - Hits - Bandwidth - Last access
+# The 100 first number of hits are first
+BEGIN_EXTRA_1 0
+END_EXTRA_1
+
+# Extra key - Pages - Hits - Bandwidth - Last access
+# The 100 first number of hits are first
+BEGIN_EXTRA_2 53
+/ 170 170 1508310 
+/robots.txt 90 90 11610 
+/servico/homologacao-de-fornos-de-tratamento-termico-c-1 32 32 132288 
+/servico/consultoria-em-processos-de-tratamento-termic-4 14 14 53096 
+/servico/analise-de-falhas-3 9 9 29763 
+/sobre/ 7 7 23205 
+/orcamento/ 7 7 19278 
+/contato/ 7 7 18221 
+/servico/auditoria-interna 6 6 17244 
+/servico/caracterizacao-de-materiais-fluorescencia-rx-5 5 5 16415 
+/orcamento.php 1 1 2754 
+/index.php 1 1 12591 
+/sitemap.xml 0 6 2490 
+/files/services/p1a0t6v13odib1pi2kdp1smne6t4.jpg 0 1 24796 
+/files/services/p1a1lka503v15162o19vm1o0bt7f4.jpg 0 4 492704 
+/files/pages/p1a0g8guvr10m31nclnjd17eb1bt24.png 0 1 18235 
+/files/services/p1a1lkctr11mhhhr51jeqqdu17254.jpg 0 4 495608 
+/files/pages/p1a1kfjbm42gihg7u776610gt4.png 0 18 695632 
+/js/modernizr.js 0 45 272070 
+/files/services/p1a2367qb4bf61fabaq7v831msv4.png 0 22 1801740 
+/files/pages/p1a4ottqlbqghkg41eak1c572pc4.png 0 4 1433844 
+/files/services/engrenhagem-desenho.jpg 0 2 64094 
+/img/precos.png 0 19 67564 
+/img/logo.png 0 20 16935 
+/img/equip-profissional.png 0 19 1185926 
+/files/pages/p1deldma70jn213l621f1n4q1jdt4.png 0 4 308180 
+/img/img-engrenagem.png 0 19 7247394 
+/files/services/fornos-desenho.jpg 0 19 297670 
+/img/profissional-quali.png 0 19 1384040 
+/files/services/banner-consultoria.jpg 0 20 1375812 
+/files/pages/p1a1kg6ldblaur0r1r8l9hai84.png 0 18 909616 
+/files/services/modelagem-3d.jpg 0 1 17080 
+/img/confiabilidade.png 0 18 38857 
+/files/services/p1a4r38doa1c1gjmo8a9m8fpsp4.jpg 0 2 90438 
+/files/slider/fornos-2-de-tratamento-termico-1-2.jpg 0 15 1096563 
+/files/pages/p1a0g5i2mn4281gno1obn1ppi11vg4.png 0 17 839085 
+/files/pages/p1a1kgaai319ctft21k9c1uj812584.png 0 19 1008015 
+/files/pages/p1a1kg0k9h1as91ckmdgi17qcic84.png 0 17 741150 
+/img/agilidade.png 0 20 78870 
+/img/favicon.png 0 55 67350 
+/js/main.min.js 0 44 543928 
+/css/style.css 0 44 251548 
+/files/slider/fornos-2-de-tratamento-termico-2-1-1.jpg 0 15 763568 
+/files/services/engrenhagem-nova.jpg 0 1 26835 
+/img/logo-color.png 0 40 80025 
+/files/pages/p1aef9oojc12jte14la4145d1gr54.png 0 21 856691 
+/files/services/p1aui8rvdo18l41lrdo915j614vv4.jpg 0 4 141880 
+/files/pages/p1a1kfun2o1vkm1s20hvo1vl81dj94.png 0 19 965175 
+/img/contato-banner.png 0 4 1278876 
+/img/simulacao-box.png 0 19 3050516 
+/files/services/p1aui992dm44b9om18r2d5b6ov4.jpg 0 3 130029 
+/files/services/p1demj20bljjm1bftmp1tbg1g594.png 0 3 129888 
+/files/services/p1a1lkkl4479ijasrcf12971vaj4.jpg 0 4 308028 
+END_EXTRA_2
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 128
+2804:431:c7c1:816d:fd53:2ba8:440b:3e8a 225 637 1826717 20200707213346
+2804:431:c7c1:816d:14f8:1e84:a827:7219 81 142 156453 20200708200325
+2804:431:c7c1:121b:2ccd:fa25:d516:1464 65 197 1958968 20200703210848
+189.110.237.179 65 289 1067836 20200710200612
+186.202.173.147 29 29 365311 20200731142127
+18.217.223.118 26 26 306261 20200728152314
+3.101.0.4 25 25 292138 20200713215504
+2804:431:c7c1:121b:49e1:9a16:c869:301c 24 104 2213477 20200702215523
+2804:431:c7c1:816d:8456:1adf:cfee:4b56 14 73 685780 20200705162406
+2a0d:7c40:3000:57::2 10 10 125910 20200701191111
+52.36.204.208 1 1 3633 20200725190346
+40.91.76.45 2 32 2215906 20200730074706
+40.77.188.111 0 1 46918 
+66.249.83.5 0 3 93180 
+189.91.58.154 3 33 1169930 20200722104533
+65.154.226.100 2 15 892543 20200710181938
+179.225.165.254 1 1 3633 20200726120008
+138.186.85.116 3 3 417 20200713220746
+177.130.180.53 1 13 870479 20200720200309
+45.166.112.245 1 13 870479 20200724181350
+187.8.218.40 1 15 581551 20200727150203
+157.55.39.146 0 1 6046 
+66.102.6.63 1 1 2603 20200719114603
+54.185.41.170 0 1 12362 
+51.210.148.64 2 2 25182 20200712211550
+2804:14c:a0:8e7c:f484:3e7f:7e76:bf3d 1 16 583006 20200701015707
+52.39.19.98 0 1 6046 
+2804:431:9700:4a2d:a4b8:e153:ef48:3c31 0 1 1347 
+2804:14c:191:8c5f:6ccf:bf25:9aef:623b 0 1 1347 
+10.17.50.62 1 1 637 20200710085917
+2804:431:9700:6633:6c9e:c243:535f:c5ec 0 1 1347 
+10.17.50.42 8 106 7746453 20200714010100
+40.77.188.190 0 1 14853 
+189.8.8.10 1 16 582898 20200720123425
+157.55.39.123 0 1 12362 
+177.105.115.106 2 33 667312 20200702141820
+40.77.191.195 0 3 24125 
+2804:431:9700:6633:8c96:6a2f:c96d:b773 0 1 1347 
+107.0.106.6 0 1 56775 
+2804:14d:7888:5549:417c:3916:41d4:9ff8 1 16 582898 20200724142657
+187.10.126.185 0 1 1347 
+2804:214:8127:5656:8511:10a3:5f8e:dd18 0 1 1347 
+66.102.6.9 0 1 5717 
+10.17.50.61 1 1 635 20200707114406
+40.64.75.78 2 32 2215906 20200725020658
+159.203.24.107 1 1 0 20200731080232
+2804:431:9700:4a2d:94c0:c982:ba33:9b13 0 1 1347 
+2804:214:813c:41c:e075:355b:f006:62a5 0 1 1347 
+2804:10:13::196:66 1 1 12591 20200719102328
+177.141.170.133 0 1 1347 
+144.168.162.250 1 1 12591 20200701165854
+138.197.138.211 1 1 0 20200731080229
+74.125.210.73 1 11 532549 20200719114023
+138.197.148.246 1 1 0 20200731080228
+35.157.32.153 1 1 12591 20200701084834
+191.252.218.135 1 1 3633 20200729040818
+2804:431:9700:6633:81c2:9047:4e9c:c407 0 1 1347 
+2806:264:4404:481:1c0b:85a2:db08:3ea2 1 9 174196 20200706132357
+77.74.177.114 3 3 10899 20200731033156
+2804:14d:5ccf:a322:8c02:232c:cb09:cae1 1 1 3633 20200711200119
+183.253.80.106 1 1 139 20200713221800
+2804:431:9700:bed6:245f:8067:e308:f633 0 1 1347 
+2804:18:1875:766:a66:11d4:3b74:b5a8 1 16 582898 20200723135147
+62.28.52.188 1 16 582898 20200724170705
+2804:14d:32a0:5dd9:d8ad:5b48:a66c:1bb4 7 39 2866308 20200706235433
+66.249.83.7 0 3 95326 
+93.159.230.28 1 1 3705 20200703030054
+2a01:7e00::f03c:91ff:feac:bf3b 4 32 2386386 20200706144847
+2804:431:9700:bed6:c4c8:693a:fcf9:fb8 0 1 1347 
+40.77.191.136 0 1 5717 
+2804:431:9700:4a2d:7108:1b2b:a34e:af50 0 1 1347 
+2804:431:c7c1:121b:65fe:6c6:2290:a13d 5 31 2588134 20200703211242
+2804:214:8112:dfb9:c543:850:6154:9fd 0 1 1347 
+2804:431:c7c0:ad1d:25a1:6c1d:89c9:d325 1 13 27758 20200724115131
+2804:14c:f281:9af3:ccf3:570b:ff13:3b79 1 16 582898 20200716232636
+138.197.174.217 1 1 0 20200731080231
+187.1.184.230 2 17 587032 20200727113105
+74.125.210.67 1 6 531595 20200720042646
+187.57.10.105 1 17 584027 20200716152551
+54.207.33.42 9 9 113319 20200706163623
+2804:431:c7c1:816d:7034:2c6d:5d88:e37d 3 19 8990 20200709193500
+2804:431:c7c1:816d:b5a5:5a1:60e1:15f0 1 2 81903 20200710180424
+52.42.239.230 1 1 3705 20200706190712
+179.209.197.86 1 16 583006 20200707081936
+177.10.105.66 0 1 45219 
+2804:7f2:2a82:77a2:e914:53d0:1707:8270 1 13 870479 20200715163121
+138.122.96.123 2 20 1254324 20200705094123
+87.166.57.25 1 3 155678 20200701052245
+66.102.6.5 0 3 441079 
+40.64.104.222 1 16 1107953 20200727022604
+2804:431:9700:4a2d:5039:2e2f:beed:2001 0 1 1347 
+2804:431:c7c0:4184:6d5c:30e3:377b:e77 4 28 995049 20200714094922
+135.14.238.250 4 4 54381 20200710180426
+201.68.112.132 2 19 1205638 20200702192120
+2804:14c:191:8c5f:5125:2232:d319:40b5 0 1 1347 
+2804:431:c7c1:6cbc:d5b:63a1:3fa9:5821 3 28 586074 20200728152344
+66.249.83.9 1 9 918100 20200720042932
+2804:431:c7c1:121b:6cc7:4da6:55d7:21a5 2 17 968643 20200701084831
+207.46.13.181 0 1 12362 
+40.77.139.3 0 3 24125 
+35.230.58.15 1 15 1106678 20200705000224
+74.125.210.71 0 6 500601 
+2804:431:c7c0:4184:9cec:259b:522c:38e1 3 19 604871 20200714162519
+177.204.47.82 3 49 656926 20200730165659
+2804:431:9700:4a2d:c5fa:bf9a:ec1e:1f86 0 1 1347 
+2804:431:9700:6633:d8fe:5923:4725:3fc5 0 1 1347 
+2804:7f7:de84:b315:acee:9544:e4b1:6f13 1 16 582898 20200728163612
+2804:10:4062::198:81 1 1 12591 20200716060914
+66.102.6.7 0 1 6046 
+40.91.84.131 1 16 1108025 20200703011246
+2804:214:8118:b3c0:60d1:edde:f244:4242 0 1 1347 
+2804:14c:191:8c5f:e058:9c49:715f:8565 0 1 1347 
+2804:214:8130:c258:485d:2074:56a8:b827 0 1 1347 
+2804:431:c7c1:121b:fc67:62ae:e271:c214 5 30 1693720 20200702192019
+2804:431:9700:bed6:2def:4749:b606:8b1d 0 1 1347 
+207.46.13.113 0 1 6046 
+34.210.58.2 1 1 3633 20200717003051
+2804:14c:4a:86ff:d47d:d9e2:949f:b7f1 1 16 583006 20200705124117
+20.42.151.15 1 16 1107953 20200726013407
+187.8.233.40 2 32 1165796 20200723153153
+2804:431:c7c0:ad1d:2dd3:ee34:adf0:19cc 2 18 30512 20200725081459
+40.91.112.70 1 16 1107953 20200728020542
+40.77.190.81 0 1 36278 
+34.221.181.13 0 1 12362 
+40.85.255.163 1 1 3633 20200720222624
+2804:431:c7c1:816d:e50e:576f:1b06:670f 2 18 6387 20200712185236
+177.32.148.207 5 38 1512091 20200709090604
+54.202.152.17 0 1 6046 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20200701 18 65 2979035 17
+20200702 40 196 5966333 11
+20200703 80 267 6928709 8
+20200704 3 16 262264 2
+20200705 23 129 3692743 10
+20200706 15 86 4297288 8
+20200707 248 678 2657257 15
+20200708 91 153 239565 7
+20200709 11 47 1335000 5
+20200710 77 343 5488447 13
+20200711 2 3 17571 2
+20200712 6 23 58098 4
+20200713 9 37 2214199 7
+20200714 10 64 2744160 5
+20200715 2 14 883070 2
+20200716 4 37 1238673 4
+20200717 3 7 40959 3
+20200718 1 1 12591 1
+20200719 4 16 938766 4
+20200720 6 64 3742282 6
+20200721 1 3 15285 1
+20200722 5 52 1768113 3
+20200723 3 33 1178387 3
+20200724 6 75 3184577 6
+20200725 7 41 1199626 5
+20200726 3 19 1125524 3
+20200727 5 50 2290474 4
+20200728 8 72 2371359 5
+20200729 2 2 16224 2
+20200730 6 84 2888117 6
+20200731 7 7 19857 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 6
+5mn-15mn 5
+2mn-5mn 1
+30s-2mn 7
+15mn-30mn 4
+0s-30s 148
+30mn-1h 7
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 29
+/ 264 1833860 134 123
+/orcamento/ 113 312626 3 7
+/sis/ 67 17496 1 2
+/servico/homologacao-de-fornos-de-tratamento-termico-c-1 34 151445 21 20
+/admin/upload-frame.php 23 52739 0 0
+/admin/pages.php 23 69570 0 0
+/admin/ 23 37686 2 0
+/contato/ 19 50488 2 3
+/admin/rel-service_content.php 19 65400 0 0
+/admin/login.php 16 17832 0 2
+/admin/rel-slider.php 14 38567 0 0
+/admin/rel-adm_mga.php 4 10445 0 0
+/servico/analise-de-falhas-3 3 10185 0 2
+/sobre/ 14 47394 0 1
+/admin/rel-contatos.php 1 5721 0 0
+/admin/rel-seo.php 8 22037 0 0
+/admin/rel-services.php 13 36586 0 0
+/servico/auditoria-interna 6 17699 1 3
+/admin/rel-orcamentos.php 2 8948 0 0
+/fornos/ 2 6698 2 1
+/servico/consultoria-em-processos-de-tratamento-termic-4 16 98544 9 11
+/admin/css/font/fontawesome-webfont.woff 1 29380 0 0
+/orcamento.php 6 23261 1 0
+/admin/upload.php 2 7088 0 0
+/servico/caracterizacao-de-materiais-fluorescencia-rx-5 1 3365 0 1
+/admin/ed.php 3 7979 0 0
+/awstats/awstats.pl 6 8084 0 0
+/admin/rel-newsletter.php 1 2643 0 0
+/bcf5d745c2b0ca05831e72ff5bbc58ec/fpm-status 2 1272 2 2
+END_SIDER
