@@ -2,11 +2,8 @@
 include("../class/classCaptcha.php");
 
 $ObjCaptcha=new Captcha();
-$Retorno=$ObjCaptcha->getCaptcha($_POST['g-recaptcha-response']);
+$Retorno=$ObjCaptcha->getCaptcha($_POST['g-recaptcha-response']); 
 
-
-//<h5><a href="#">Clique a aqui para voltar a home </a></h5>
-     
 //var_dump($Retorno); //teste
 if($Retorno->success == true && $Retorno->score > 0.8){
 
@@ -25,4 +22,7 @@ if($Retorno->success == true && $Retorno->score > 0.8){
                           <strong>Erro!</strong> Você não é humano.
                   </div>';
         }
-
+?>
+<html> 
+    <h5><a href="../">Voltar; </a></h5>
+</html>
