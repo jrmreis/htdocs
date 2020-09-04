@@ -5,6 +5,8 @@ $ObjCaptcha=new Captcha();
 $Retorno=$ObjCaptcha->getCaptcha($_POST['g-recaptcha-response']);
 
 
+//<h5><a href="#">Clique a aqui para voltar a home </a></h5>
+     
 //var_dump($Retorno); //teste
 if($Retorno->success == true && $Retorno->score > 0.8){
 
