@@ -9,7 +9,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
-        <div>Formulário Teste</div>
+        <div><h1>Formulário Teste</h1></div>
         
         <form id="form1" name="form1" action="controllers/ControllerForm.php" method="post">
             <input type="text" id="nome" name="nome"><br> 
