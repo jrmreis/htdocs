@@ -36,7 +36,7 @@ session_start();
                         <form action="login.php" method="POST">
                             <div class="field">
                                 <div class="control">
-                                    <input name="usuario" name="text" class="input is-large" placeholder="Seu usuário" autofocus="">
+                                    <input name="nome" name="text" class="input is-large" placeholder="Seu usuário" autofocus="">
                                 </div>
                             </div>
 
