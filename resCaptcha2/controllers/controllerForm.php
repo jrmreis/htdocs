@@ -24,5 +24,5 @@ if($Retorno->success == true && $Retorno->score > 0.8){
         }
 ?>
 <html> 
-    <h5><a href="../">Voltar; </a></h5>
+    <h5><a href="../">Voltar </a></h5>
 </html>
